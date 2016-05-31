@@ -19,8 +19,8 @@ html {
 }
 
 .about-bg {
-	background: url(./beach.jpg) no-repeat center center fixed;
-	background-size: 120%;
+	background: url(./castlerock.jpg) no-repeat center center fixed;
+	background-size: 150%;
 	/*background: #FFDFBA;*/
 }
 
@@ -31,7 +31,7 @@ html {
 }
 
 .contact-bg {
-	background: url(./keyboard.jpg) no-repeat center center fixed;
+	background: url(./beach.jpg) no-repeat center center fixed;
 	background-size: 150%;
 	/*background: #BAE1FF;*/
 }
