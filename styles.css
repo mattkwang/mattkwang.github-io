@@ -15,24 +15,28 @@ html {
 .home-bg {
 	background: url(./auditorium.jpg) no-repeat center center fixed;
 	background-size: 120%;
+	background-size: contain !important;
 	/*background: #FFB3BA;*/
 }
 
 .about-bg {
 	background: url(./castlerock.jpg) no-repeat center center fixed;
 	background-size: 150%;
+	background-size: contain !important;
 	/*background: #FFDFBA;*/
 }
 
 .projects-bg {
 	background: url(./circuit.jpg) no-repeat center center fixed;
 	background-size: 140%;
+	background-size: contain !important;
 	/*background: #BAFFC9;*/
 }
 
 .contact-bg {
 	background: url(./beach.jpg) no-repeat center center fixed;
 	background-size: 150%;
+	background-size: contain !important;
 	/*background: #BAE1FF;*/
 }
 
