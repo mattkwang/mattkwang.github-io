@@ -13,7 +13,7 @@ html {
 }
 
 .home-bg {
-	background-image: url(./auditorium.jpg) no-repeat center center fixed;
+	background: url(./auditorium.jpg) no-repeat center center fixed;
 	background-size: 120%;
 	-webkit-background-size: 120%;
 	-o-background-size: 120%;
@@ -21,7 +21,7 @@ html {
 }
 
 .about-bg {
-	background-image: url(./castlerock.jpg) no-repeat center center fixed;
+	background: url(./castlerock.jpg) no-repeat center center fixed;
 	background-size: 150%;
 	-webkit-background-size: 150%;
 	-o-background-size: 150%;
@@ -29,7 +29,7 @@ html {
 }
 
 .projects-bg {
-	background-image: url(./circuit.jpg) no-repeat center center fixed;
+	background: url(./circuit.jpg) no-repeat center center fixed;
 	background-size: 140%;
 	-webkit-background-size: 140%;
 	-o-background-size: 140%;
@@ -37,7 +37,7 @@ html {
 }
 
 .contact-bg {
-	background-image: url(./beach.jpg) no-repeat center center fixed;
+	background: url(./beach.jpg) no-repeat center center fixed;
 	background-size: 150%;
 	-webkit-background-size: 150%;
 	-o-background-size: 150%;
