@@ -53,19 +53,19 @@ only screen and (min-device-pixel-ratio: 2),
 only screen and (min-resolution: 192dpi),
 only screen and (min-resolution: 2dppx) {
 	.home-bg {
-		min-width: cover;
+		background: #3366CC;
 	}
 
 	.about-bg {
-		min-width: cover;
+		background: #3366CC;
 	}
 
 	.projects-bg {
-		min-width: cover;
+		background: #3366CC;
 	}
 
 	.contact-bg {
-		min-width: cover;
+		background: #3366CC;
 	}
 }
 
