@@ -12,7 +12,39 @@ html {
 	width: 50%;
 }
 
-@media screen and (min-width : 320px) and (max-width : 480px) {
+.home-bg {
+	background-image: url(./auditorium.jpg) no-repeat center center fixed;
+	background-size: 120%;
+	-webkit-background-size: 120%;
+	-o-background-size: 120%;
+	-moz-background-size: 120%;
+}
+
+.about-bg {
+	background-image: url(./castlerock.jpg) no-repeat center center fixed;
+	background-size: 150%;
+	-webkit-background-size: 150%;
+	-o-background-size: 150%;
+	-moz-background-size: 150%;
+}
+
+.projects-bg {
+	background-image: url(./circuit.jpg) no-repeat center center fixed;
+	background-size: 140%;
+	-webkit-background-size: 140%;
+	-o-background-size: 140%;
+	-moz-background-size: 140%;
+}
+
+.contact-bg {
+	background-image: url(./beach.jpg) no-repeat center center fixed;
+	background-size: 150%;
+	-webkit-background-size: 150%;
+	-o-background-size: 150%;
+	-moz-background-size: 150%;
+}
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
 	.home-bg {
 		min-width: 180%;
 		min-height: 180%;
@@ -32,38 +64,6 @@ html {
 		min-width: 180%;
 		min-height: 180%;
 	}
-}
-
-.home-bg {
-	background: url(./auditorium.jpg) no-repeat center center fixed;
-	background-size: 120%;
-	-webkit-background-size: 120%;
-	-o-background-size: 120%;
-	-moz-background-size: 120%;
-}
-
-.about-bg {
-	background: url(./castlerock.jpg) no-repeat center center fixed;
-	background-size: 150%;
-	-webkit-background-size: 150%;
-	-o-background-size: 150%;
-	-moz-background-size: 150%;
-}
-
-.projects-bg {
-	background: url(./circuit.jpg) no-repeat center center fixed;
-	background-size: 140%;
-	-webkit-background-size: 140%;
-	-o-background-size: 140%;
-	-moz-background-size: 140%;
-}
-
-.contact-bg {
-	background: url(./beach.jpg) no-repeat center center fixed;
-	background-size: 150%;
-	-webkit-background-size: 150%;
-	-o-background-size: 150%;
-	-moz-background-size: 150%;
 }
 
 #back {
