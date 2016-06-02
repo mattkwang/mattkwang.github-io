@@ -12,32 +12,40 @@ html {
 	width: 50%;
 }
 
+/*@media only screen and (min-width : 320px) and (max-width : 480px) {
+	
+}*/
+
 .home-bg {
 	background: url(./auditorium.jpg) no-repeat center center fixed;
 	background-size: 120%;
-	background-size: contain !important;
-	/*background: #FFB3BA;*/
+	-webkit-background-size: 120%;
+	-o-background-size: 120%;
+	-moz-background-size: 120%;
 }
 
 .about-bg {
 	background: url(./castlerock.jpg) no-repeat center center fixed;
 	background-size: 150%;
-	background-size: contain !important;
-	/*background: #FFDFBA;*/
+	-webkit-background-size: 150%;
+	-o-background-size: 150%;
+	-moz-background-size: 150%;
 }
 
 .projects-bg {
 	background: url(./circuit.jpg) no-repeat center center fixed;
 	background-size: 140%;
-	background-size: contain !important;
-	/*background: #BAFFC9;*/
+	-webkit-background-size: 140%;
+	-o-background-size: 140%;
+	-moz-background-size: 140%;
 }
 
 .contact-bg {
 	background: url(./beach.jpg) no-repeat center center fixed;
 	background-size: 150%;
-	background-size: contain !important;
-	/*background: #BAE1FF;*/
+	-webkit-background-size: 150%;
+	-o-background-size: 150%;
+	-moz-background-size: 150%;
 }
 
 #back {
