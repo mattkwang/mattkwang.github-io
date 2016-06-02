@@ -46,23 +46,19 @@ html {
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
 	.home-bg {
-		min-width: 180%;
-		min-height: 180%;
+		min-width: cover;
 	}
 
 	.about-bg {
-		min-width: 180%;
-		min-height: 180%;
+		min-width: cover;
 	}
 
 	.projects-bg {
-		min-width: 180%;
-		min-height: 180%;
+		min-width: cover;
 	}
 
 	.contact-bg {
-		min-width: 180%;
-		min-height: 180%;
+		min-width: cover;
 	}
 }
 
