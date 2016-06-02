@@ -13,7 +13,7 @@ html {
 }
 
 /*@media only screen and (min-width : 320px) and (max-width : 480px) {
-	
+
 }*/
 
 .home-bg {
@@ -22,6 +22,10 @@ html {
 	-webkit-background-size: 120%;
 	-o-background-size: 120%;
 	-moz-background-size: 120%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
 }
 
 .about-bg {
@@ -30,6 +34,10 @@ html {
 	-webkit-background-size: 150%;
 	-o-background-size: 150%;
 	-moz-background-size: 150%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
 }
 
 .projects-bg {
@@ -38,6 +46,10 @@ html {
 	-webkit-background-size: 140%;
 	-o-background-size: 140%;
 	-moz-background-size: 140%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
 }
 
 .contact-bg {
@@ -46,6 +58,10 @@ html {
 	-webkit-background-size: 150%;
 	-o-background-size: 150%;
 	-moz-background-size: 150%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
 }
 
 #back {
