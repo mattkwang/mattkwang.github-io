@@ -38,10 +38,10 @@ html {
 
 .contact-bg {
 	background: url(./beach.jpg) no-repeat center center fixed;
-/*	background-size: cover;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
-	-moz-background-size: cover;*/
+	-moz-background-size: cover;
 }
 
 @media
