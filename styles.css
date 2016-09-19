@@ -12,55 +12,40 @@ html {
 	width: 50%;
 }
 
-
 .home-bg {
-	background: url(./auditorium.jpg) no-repeat center center fixed;
-/*	background-size: 120%;
-	-webkit-background-size: 120%;
-	-o-background-size: 120%;
-	-moz-background-size: 120%;*/
+	background: #4080BF;
 }
 
 .about-bg {
-	background: url(./castlerock.jpg) no-repeat center center fixed;
-/*	background-size: 150%;
-	-webkit-background-size: 150%;
-	-o-background-size: 150%;
-	-moz-background-size: 150%;*/
+	background: #4080BF;
 }
 
 .projects-bg {
-	background: url(./sunset.jpg) no-repeat center center fixed;
-/*	background-size: 140%;
-	-webkit-background-size: 140%;
-	-o-background-size: 140%;
-	-moz-background-size: 140%;*/
+	background: #4080BF;
 }
 
 .contact-bg {
-	background: url(./beach.jpg) no-repeat center center fixed;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-o-background-size: cover;
-	-moz-background-size: cover;
+	background: #4080BF;
 }
 
-@media
-(max-width: 700px) {
+@media screen
+and (min-device-width: 1200px)
+and (max-device-width: 1600px)
+and (-webkit-min-device-pixel-ratio: 1) {
 	.home-bg {
-		background: #4080BF;
+		background: url(./auditorium.jpg) no-repeat center center fixed;
 	}
 
 	.about-bg {
-		background: #4080BF;
+		background: url(./castlerock.jpg) no-repeat center center fixed;
 	}
 
 	.projects-bg {
-		background: #4080BF;
+		background: url(./sunset.jpg) no-repeat center center fixed;
 	}
 
 	.contact-bg {
-		background: #4080BF;
+		background: url(./beach.jpg) no-repeat center center fixed;
 	}
 }
 
