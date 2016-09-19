@@ -12,6 +12,7 @@ html {
 	width: 50%;
 }
 
+
 .home-bg {
 	background: url(./auditorium.jpg) no-repeat center center fixed;
 /*	background-size: 120%;
@@ -45,13 +46,7 @@ html {
 }
 
 @media
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (min--moz-device-pixel-ratio: 2),
-only screen and (-moz-min-device-pixel-ratio: 2),
-only screen and (-o-min-device-pixel-ratio: 2/1),
-only screen and (min-device-pixel-ratio: 2),
-only screen and (min-resolution: 192dpi),
-only screen and (min-resolution: 2dppx) {
+(max-width: 700px) {
 	.home-bg {
 		background: #4080BF;
 	}
