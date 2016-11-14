@@ -1,10 +1,6 @@
 html {
 	display: table;
 	margin: auto;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 .name {
@@ -34,18 +30,38 @@ and (max-device-width: 1600px)
 and (-webkit-min-device-pixel-ratio: 1) {
 	.home-bg {
 		background: url(./auditorium.jpg) no-repeat center center fixed;
+
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
 	}
 
 	.about-bg {
 		background: url(./castlerock.jpg) no-repeat center center fixed;
+
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
 	}
 
 	.projects-bg {
 		background: url(./sunset.jpg) no-repeat center center fixed;
+
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
 	}
 
 	.contact-bg {
 		background: url(./beach.jpg) no-repeat center center fixed;
+
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
 	}
 }
 
