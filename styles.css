@@ -139,6 +139,7 @@ nav li a:hover {
 
 #content {
 	/*border: 1px solid;*/
+	display: inline-block;
 	border: hidden;
 	border-radius: 12px;
 	background: rgba(255, 255, 255, 0.6);
@@ -148,8 +149,7 @@ nav li a:hover {
 
 #fullbody {
 	position: relative;
-	max-width: 35%;
-	/*text-align: right;*/
+	width: 35%;
 	float: right;
 }
 
